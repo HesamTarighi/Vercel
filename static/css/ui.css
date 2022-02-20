@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+* {
+  --red: #FF1700;
+  --blue: #00b4d8;
+  --purple: #5353fd;
+  --green: #48bf53;
+  --yellow: #fbcc5f;
+  --black1: #141414;
+  --black2: #202020;
+  --white: #fff;
+  --grey: #333333;
+  font-family: 'Rubik', sans-serif;
+}
+
+.font1 {
+  font-family: 'Rowdies', cursive;
+}
+
+.font2 {
+  font-family: 'Righteous', cursive;
+}
+
+.font3 {
+  font-family: 'Fredoka One', cursive;
+}
+
+.font4 {
+  font-family: 'Concert One', cursive;
+}
+
+.font5 {
+  font-family: 'Amaranth', sans-serif;
+}
+
+.font6 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.dark-bg {
+  background-color: var(--black1);
+}
+
+.dark-bg2 {
+  background-color: var(--black2);
+}
+
+.dark-bg3 {
+  background-color: var(--blue);
+}
+
+.dark-bg4 {
+  background-color: var(--purple);
+}
+
+.dark-bg5 {
+  background-color: var(--yellow);
+}
+
+.dark-bg6 {
+  background-color: var(--green);
+}
+
+.dark-bg7 {
+  background-color: var(--grey);
+}
+
+.red-bg {
+  background-color: var(--red);
+}
+
+.dark-text {
+  color: var(--white);
+}
+
+.dark-text2 {
+  color: var(--yellow);
+}
+
+.dark-text3 {
+  color: var(--blue);
+}
+
+.dark-text4 {
+  color: var(--purple);
+}
+
+.dark-text5 {
+  color: var(--green);
+}
+
+.dark-text6 {
+  color: var(--grey);
+}
+
+.red-text {
+  color: var(--red);
+}
+
+.dark-btn1 {
+  background-color: var(--blue);
+}
+
+.dark-btn2 {
+  background-color: var(--yellow);
+}
+
+.dark-btn3 {
+  background-color: var(--purple);
+}
